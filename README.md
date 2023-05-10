@@ -1,5 +1,5 @@
 ### Hi there 👋, Hello 👋, my name is Leandro
-#### Full Stack Developer
+#### Full Stack Developer Junior Trainee.
 Hi everyone I'm Leandro, from Argentina, I'm 34.  
 Professional Video editor with more than 15 years of experience.
 Now I want to be part of the wonderful IT world.
